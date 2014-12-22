@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon preached in the cittie of Glasco in Scotland, on the tenth day of Iune, 1610 At the holding
+
+1. TO THE MOST HIGH AND RENOWned Prince, JAMES, by the grace of God King of Great Britaine, France, and Ireland: Defender of the faith, &c.
+
 #####Body#####
-A sermon preached in the cittie of Glasco in Scotland, on the tenth day of Iune, 1610 At the holding
+
+1. THE COPIE OF A SERMON PREACHED AT GLASCO; IN THE generall Aſſembly, 1610.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
